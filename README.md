@@ -1,6 +1,6 @@
 # React Material UI
-Introduction to MUI
-MUI Typography
-MUI TextFields
-MUI Buttons
-MUI Select
+1. Introduction to MUI
+2. MUI Typography
+3. MUI TextFields
+4. MUI Buttons
+5. MUI Select
